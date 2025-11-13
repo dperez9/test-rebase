@@ -1,2 +1,2 @@
-Nuevo valor sensible
+(valor referenciado)
 nuevo valor generico
